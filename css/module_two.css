@@ -18,6 +18,11 @@
     height: 2000px;
   }
 }
+/* @media (min-width: 768px) and (max-width: 1500px) {
+  .B {
+    visibility: hdden;
+  }
+} */
 
 .BTT{
   color:black;
